@@ -17,5 +17,8 @@ echo $wikimediaCommonsPotd->get( 1024 );
 
 ⚠️ Please remember that this class won't cache anything and that you should [link back](https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia) to awesome Wikimedia folks when using their content.
 
+# WP Plugin
+I'm using this class (with little modifications) for [Wikimedia Commons Picture of The Day for WP Login](https://github.com/simison/WikimediaCommonsPotdWpLogin) -plugin (yep, that's a mouthful!).
+
 # License
 MIT
